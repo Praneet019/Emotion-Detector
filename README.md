@@ -3,15 +3,15 @@ This project is a Python-based Emotion Detection system that uses a trained deep
 
 Technologies Used:
 
-Python
+1. Python
 
-OpenCV
+2. OpenCV
 
-TensorFlow / Keras
+3. TensorFlow / Keras
 
-Tkinter (for GUI)
+4. Tkinter (for GUI)
 
-PIL (for image processing)
+5. PIL (for image processing)
 
 Features:
 
